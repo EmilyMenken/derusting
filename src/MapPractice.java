@@ -35,6 +35,7 @@ System.out.println("Map printed: " + hashBrownMap);
     // Check whether the Map contains a given key
 
     String keyToCheck = "Light";
+    
     if (hashBrownMap.containsKey(keyToCheck)) {
         System.out.println("The does map contains the key: " + keyToCheck);
     } else {
