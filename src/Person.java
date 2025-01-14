@@ -11,7 +11,7 @@ public class Person {
 
   // Declare a private int instance variable for the age of the person
 
-  private int age;
+  private final int age; //made final so my whole file wasn't still yellow with a warning
 
   // Create a constructor that takes the name and age of the person
   // and assigns it to the instance variables
