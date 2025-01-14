@@ -14,9 +14,7 @@ reptileArray[3] = "turtle";
 
     // Get the value of the array at index 2
 
-String indexTwo = reptileArray[2];
-
-System.out.println("The value of index 2 is: " +indexTwo + "!");
+System.out.println("The value of index 2 is: " +reptileArray[2] + "!");
 
     // Get the length of the array
 
