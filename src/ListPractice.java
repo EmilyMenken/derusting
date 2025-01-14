@@ -69,10 +69,10 @@ listOfDays.set(1, "Sunday");
     // Print each value on a second line
 
     for (String secondLine : listOfDays) {
-      System.out.println(secondLine); 
+      System.out.println(secondLine + "!"); 
       System.out.println(); //is this what you meant by on a second line?
     }
-    
+
     /*
      * Usage tip!
      * 
